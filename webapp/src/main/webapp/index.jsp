@@ -1,3 +1,14 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML Submit and Reset Buttons</title>
+</head>
+<body>
+	<form action="/examples/html/action.php" method="post">
+        <label for="first-name">First Name:</label>
+        <input type="text" name="first-name" id="first-name">
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form>
+</body>
+</html> 
